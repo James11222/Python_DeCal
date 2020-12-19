@@ -1,4 +1,4 @@
-# Python_DeCal_2020
+# Python_DeCal
 
 ## Welcome to the Python DeCal Home Resources Page
 
