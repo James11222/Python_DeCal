@@ -1,4 +1,4 @@
-# Python DeCal
+# <img src="DeCal_Images/Python_Decal_Logo_Outlined.png" width="60" />  **Python DeCal**
 
 ## Welcome to the Python DeCal Home Resources Page
 
