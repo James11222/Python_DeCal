@@ -1,0 +1,29 @@
+In this folder I have compiled a few .fits files for you to play with. The eagle nebula, SN1987A, the sombrero galaxy, and venus in the UV band. 
+
+To load these in you may need to install the astropy python library using pip. 
+
+All of these .fits files were retrieved from various webpages such as:
+
+
+https://www.spacetelescope.org/projects/fits_liberator/datasets_archives/
+
+and
+
+http://archive.eso.org/dss/dss
+
+I highly recommend using the first link to find good quality fits files to play with and plot. If you want a tutorial on how to plot these files I would recommend visiting 
+
+
+https://learn.astropy.org/rst-tutorials/FITS-images.html?highlight=filtertutorials
+
+
+This is a downloadable tutorial on how to use astropy to plot images from FITS files and is largely what my notebook is based on. You can do a lot more stuff once you have a .fits file, like bin photometric data, if you have several .fits files of the same object over time you can construct a lightcurve from the data, and so on. I hope this helps you explore. In general, great resources for astronomy data are
+
+SIMBAD
+VIZIER
+GAIA
+SDSS
+2MASS
+
+These are astronomy data bases of the entire night sky.  
+
