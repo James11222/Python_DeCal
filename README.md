@@ -2,7 +2,7 @@
 
 ## Welcome to the Python DeCal Home Resources Page
 
-Here you can find all relevant files to the course, all homeworks, workbooks, lecture slides, etc... for the Python DeCal: Introduction to Python Programming for Astronomers at UC Berkeley. The head instructor for this course is James Sunseri. The course website is <a href="pythondecal.github.io">pythondecal.github.io</a>.
+Here you can find all relevant files to the course, all homeworks, workbooks, lecture slides, etc... for the Python DeCal: Introduction to Python Programming for Astronomers at UC Berkeley. The head instructor for this course is James Sunseri. The course website is <a href="https://pythondecal.github.io">pythondecal.github.io</a>.
 
 ### Current Instructors:
 - James Sunseri
