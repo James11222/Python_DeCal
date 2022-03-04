@@ -1,0 +1,6 @@
+Welcome to the Python DeCal, Fall 2020
+Topics we will learn about include:
+Data types
+Loops
+Functions
+Arrays
