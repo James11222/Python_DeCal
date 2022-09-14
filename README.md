@@ -7,18 +7,21 @@ Here you can find all relevant files to the course, all homeworks, workbooks, le
 ### Current Instructors:
 - James Sunseri
 - Megan Joseph
-- Ayla Weitz
-- Emily Ma
 - Raphael Baer-Way
+- Mahum Khan
+- Claire Chen
 
 ### Previous Instructors
+- Emily Ma
+- Ayla Weitz
+- Annie McCutcheon
 - Yilun Ma
 - Wendy Wu
 
 ### Current Interns
-- Claire Chen
-- Annie McCutcheon
-- Mahum Khan
+- Charlie Tolley
+- Pranathi Kolla
+- Jonah Han
 
 ### Faculty Sponsor
 - Eugene Chiang
