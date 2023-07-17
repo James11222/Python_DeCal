@@ -22,7 +22,7 @@ def eachDigit(num):
     """
     Uses a loop to print out each digit in num but it prints zero forever
     (there's a catch: i accidentally forgot to reassign num so it prints 
-    out 5 forever- see if students can catch that)
+    out 5 forever - see if students can catch that)
     What we want:
     >>> eachDigit(12345)
     5
